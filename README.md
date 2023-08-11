@@ -1,5 +1,5 @@
 # go-math-quiz
-This is a beginner friendly go-project which includes concepts like go routines, channels, loops, etc. </br>
+This is a beginner friendly go-project which includes concepts like go routines, channels, loops, etc. The main.go file contains comments which are self-explainatory for the code.</br>
 <h3>Clone the project</h3>
 Use the following command:</br>
 git clone https://github.com/Pravesh-Sudha/go-math-quiz.git</br>
